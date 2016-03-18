@@ -1,0 +1,8 @@
+1 IF if
+1 INT 123
+2 INDENT 
+2 INT 444
+3 DEDENT 
+3 ELSE else
+3 ERROR @
+3 ERROR @
